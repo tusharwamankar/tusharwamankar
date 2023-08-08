@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Wamankar</h1>
 <h3 align="center">Eager to learn new things.</h3>
 
-- 👨‍💻 All of my projects are available at [tusharwamankar,me](tusharwamankar,me)
-
-- 📫 How to reach me **tusharwamankar10@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1phfsZqEePczceNrD4jz9SywfPGOQhc_9/view?usp=sharing](https://drive.google.com/file/d/1phfsZqEePczceNrD4jz9SywfPGOQhc_9/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tushar-wamankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-wamankar" height="30" width="40" /></a>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Wamankar</h1>
-<h3 align="center">I am a highly motivated individual who is always eager to learn and improve.</h3>
+<h3 align="center">Still Learning</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
